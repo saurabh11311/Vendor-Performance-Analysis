@@ -28,14 +28,14 @@ A complete end-to-end data analysis pipeline to evaluate and optimize vendor and
 ## 📁 Repository Structure
 
 📂 Vendor-Performance-Analysis/
-│
-├── ingestion_db.py # CSV to DB ingestion script
-├── get_vendor_summary.py # SQL-based summary generation and cleanup
-├── vendor_sales_summary.csv # Final output dataset
-├── Vendor Performance Analysis.ipynb
-├── Exploratory Data Analysis.ipynb
-├── vendor_performance.pbix # Power BI dashboard file
-├── Vendor Performance Report.pdf # Final business report
+
+1. ingestion_db.py # CSV to DB ingestion script
+2.  get_vendor_summary.py # SQL-based summary generation and cleanup
+3.  vendor_sales_summary.csv # Final output dataset
+4.  Vendor Performance Analysis.ipynb
+5.  Exploratory Data Analysis.ipynb
+6.  vendor_performance.pbix # Power BI dashboard file
+7. Vendor Performance Report.pdf # Final business report
 
 yaml
 Copy
